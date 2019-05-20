@@ -22,11 +22,6 @@ Make sure you set your DNS like this:
 * s.YOUR-DOMAIN
 * old.YOUR-DOMAIN
 
-# I need help!
-You can ask for help via Discord DMs or through Github Issues.<br>
-<br>
-@Aoba Suzukaze#9999 - Aoba (Hazuki-san)
-
 # Credits
 * <a href=https://github.com/ppy>peppy</a> - Thank you for the wonderful game and I'm sorry for your bancho.
 * <a href=https://github.com/osuripple>Ripple</a> - Maybe you're not too happy about this... I'm sorry.
